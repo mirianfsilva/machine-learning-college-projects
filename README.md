@@ -4,7 +4,7 @@
 
 - Objectives:
 
-The goal of this practical is to practice the concepts studied during the module and to acquire experience in the use of some of the main classification methods, model evaluation and interpretation and presentation of experimental results. A comparison of multiple classification methods based on different principles on different principles in a binary classification problem regarding exoplanet candidates.
+The goal of this practical is to practice the concepts studied during the module and to acquire experience in the use of some of the main classification methods, model evaluation and interpretation and presentation of experimental results. A comparison of multiple classification methods based on different principles in a binary classification problem regarding exoplanet candidates.
 
 - Task (Comparing six classification methods): 
     - Naive Bayes
