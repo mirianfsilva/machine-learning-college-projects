@@ -48,7 +48,6 @@ features = list(df.columns)
 features.remove(TARGET)
 print("Target: {}".format(TARGET))
 
-# print("Features:")
-# print("\n".join(["  " + x for x in features]))
-
-
+print("Features:")
+print("\n".join(["  " + x for x in features]))
+#%%
