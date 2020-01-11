@@ -1,6 +1,6 @@
 # Exoplanet Classification
-### Practical I - Machine Learning
-(Repo for my Machine Learning college assignment)
+### Project I - Machine Learning
+(Repo for my Machine Learning college projects)
 
 - Objectives:
 
